@@ -1,6 +1,6 @@
 track Primordial
 shortLabel Primordial
-longLabel Primordial RNA-seq
+longLabel Primordial_RNA-seq
 bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/primordial.bigWig
 type bigWig 0 10000
 maxHeightPixels 100:30:10
