@@ -1,6 +1,6 @@
 hub human_oocyte_maturation
 shortLabel maturing_human_oocyte_RNA-seq
 longLabel RNA-seq on maturing human oocyctes from primordial GV to MII 
-genomesFile https://github.com/daveiles/human_oocyte_maturation/blob/main/genomes.txt
+genomesFile https://raw.githubusercontent.com/daveiles/human_oocyte_maturation/main/genomes.txt
 email daveiles@omicsltd.com
-descriptionUrl https://github.com/daveiles/human_oocyte_maturation/blob/main/Human_oocyte_RNA-seq_UCSC_track_description.html
+descriptionUrl https://raw.githubusercontent.com/daveiles/daveiles/human_oocyte_maturation/blob/main/Human_oocyte_RNA-seq_UCSC_track_description.html
