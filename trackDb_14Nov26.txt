@@ -13,9 +13,9 @@ graphTypeDefault bar
 windowingFunction maximum 
 smoothingWindow off
 
-track Early Primary
-shortLabel Early Primary
-longLabel Early Primary RNA-seq
+track EarlyPrimary
+shortLabel EarlyPrimary
+longLabel EarlyPrimary_RNA-seq
 bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/early-primary.bigWig
 type bigWig 0 10000
 maxHeightPixels 100:30:10
@@ -30,7 +30,7 @@ smoothingWindow off
 
 track Primary
 shortLabel Primary
-longLabel Early Primary RNA-seq
+longLabel Primary_RNA-seq
 bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/primary.bigWig
 type bigWig 0 10000
 maxHeightPixels 100:30:10
@@ -45,7 +45,7 @@ smoothingWindow off
 
 track Secondary
 shortLabel Secondary
-longLabel Secondary RNA-seq
+longLabel Secondary_RNA-seq
 bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/secondary.bigWig
 type bigWig 0 10000
 maxHeightPixels 100:30:10
@@ -58,9 +58,9 @@ graphTypeDefault bar
 windowingFunction maximum 
 smoothingWindow off
 
-track Early Antral
-shortLabel Early Antral
-longLabel Early Antral RNA-seq
+track EarlyAntral
+shortLabel EarlyAntral
+longLabel EarlyAntral_RNA-seq
 bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/EAN2.bigWig
 type bigWig 0 10000
 maxHeightPixels 100:30:10
