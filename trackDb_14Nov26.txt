@@ -12,6 +12,7 @@ color 0,0,153
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
+priority=1
 
 track EarlyPrimary
 shortLabel EarlyPrimary
@@ -27,6 +28,7 @@ color 51,51,255
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
+priority=2
 
 track Primary
 shortLabel Primary
@@ -42,6 +44,7 @@ color 102,102,204
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
+priority=3
 
 track Secondary
 shortLabel Secondary
@@ -57,6 +60,7 @@ color 102,0,204
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
+priority=4
 
 track EarlyAntral
 shortLabel EarlyAntral
@@ -72,6 +76,7 @@ color 153,51,255
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
+priority=5
 
 track GV
 shortLabel GV
@@ -87,6 +92,7 @@ color 204,51,255
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
+priority=6
 
 track MII
 shortLabel MII
@@ -102,4 +108,4 @@ color 204,0,204
 graphTypeDefault bar 
 windowingFunction maximum 
 smoothingWindow off
-
+priority=7
