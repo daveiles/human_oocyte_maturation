@@ -1,0 +1,118 @@
+track Primordial
+shortLabel Primordial
+longLabel Primordial_RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/primordial.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 0,0,153
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 1
+
+track EarlyPrimary
+shortLabel EarlyPrimary
+longLabel EarlyPrimary_RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/early-primary.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 51,51,255
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 2
+
+track Primary
+shortLabel Primary
+longLabel Primary_RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/primary.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 102,102,204
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 3
+
+track Secondary
+shortLabel Secondary
+longLabel Secondary_RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/secondary.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 102,0,204
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 4
+
+track EarlyAntral
+shortLabel EarlyAntral
+longLabel EarlyAntral_RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/EAN2.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 153,51,255
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 5
+
+track GV
+shortLabel GV
+longLabel GV RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/GV.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 204,51,255
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 6
+
+track MII
+shortLabel MII
+longLabel MII RNA-seq
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bigWigs/MII.bigWig
+type bigWig 0 1000
+maxHeightPixels 100:30:10
+viewLimits 0:20
+viewLimitsMax 0:1000
+visibility full
+alwaysZero on
+autoScale group
+color 204,0,204
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+priority 7
